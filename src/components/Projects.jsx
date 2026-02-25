@@ -80,8 +80,8 @@ const projectsData = [
     image: img('portfolio-portada.jpeg'),
     images: [
       img('portfolio-portada.jpeg'),
-      img('portfolio-1.jpeg'),
-      img('portfolio-2.jpeg'),
+      img('portfolio-1.png'),
+      img('portfolio-2.png'),
     ],
     siteUrl: 'https://giuliana-zorzoli.netlify.app/',
     review: {
