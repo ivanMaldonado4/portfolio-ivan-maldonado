@@ -45,7 +45,7 @@ const projectsData = [
       img('back-to-cinema-2.jpeg'),
       img('back-to-cinema-3.jpeg'),
     ],
-    siteUrl: undefined,
+    siteUrl: 'https://www.figma.com/proto/QrNEtKacygEZcENYF8tNed/Back-to-the-cinema?page-id=0%3A1&node-id=12-21&p=f&viewport=784%2C422%2C0.05&t=UW3EWIzqRKTSFLh9-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=12%3A21',
   },
   {
     id: 'gameteca',
@@ -57,7 +57,7 @@ const projectsData = [
       img('gameteca-1.jpeg'),
       img('gameteca-2.jpeg'),
     ],
-    siteUrl: undefined,
+    siteUrl: 'https://www.figma.com/proto/9OzTkKw8wId9w3k3bsYVad/APP-GAME-REVIEW?page-id=86%3A83341&node-id=215-11727&p=f&viewport=510%2C395%2C0.06&t=6LthsbahmgMLxg8F-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=215%3A11789&show-proto-sidebar=1',
   },
   {
     id: 'yoga',
@@ -71,7 +71,7 @@ const projectsData = [
       img('yoga-3.jpeg'),
       img('yoga-4.jpeg'),
     ],
-    siteUrl: undefined,
+    siteUrl: 'https://www.figma.com/proto/TgATI2WVHTacKKPiMXyYX2/yoga-arjava?page-id=41%3A563&node-id=2004-696&p=f&viewport=607%2C101%2C0.03&t=h6e0WKnSZdLFzxmX-1&scaling=contain&content-scaling=fixed&starting-point-node-id=2004%3A696',
   },
   {
     id: 'portfolio',
